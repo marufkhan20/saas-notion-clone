@@ -267,7 +267,7 @@ const HomePage = () => {
         </div>
       </section>
       <section
-        className="mt-20
+        className="mt-20 pb-20
         px-4
         sm:px-6
       "
