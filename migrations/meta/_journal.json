@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699797319826,
+      "tag": "0000_faulty_ravenous",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1699798450310,
+      "tag": "0001_reflective_gertrude_yorkes",
+      "breakpoints": true
+    }
+  ]
+}
